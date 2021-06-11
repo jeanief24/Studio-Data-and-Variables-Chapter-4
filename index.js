@@ -18,9 +18,18 @@ let weatherStatus = "clear"
 // Write code to generate the LC04 report here:
 //Launch+Checklist//
 console.log ("LAUNCH CHECKLIST")
+console.log ("---------------------------------")
 console.log ("Date " + date)
 console.log ("Time" + time)
+console.log ("---------------------------------")
+console.log (ASTRONAUT INFO)
+console.log ("---------------------------------")
+
 console.log (astronautCount)
+console.log (astronautStatus)
+console.log ("---------------------------------")
+
+
 console.log (fuelTempCelsius)
 console.log (fuelLevel)
 console.log (crewMassKg)
